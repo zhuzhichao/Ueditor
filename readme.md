@@ -61,7 +61,7 @@ php artisan asset:publish zhuzhichao/ueditor
 
 2.文件的上传位置为 `public/upload` 文件夹下，请确保有写入权限
 
-3.好嘞，终于大功告成，你可以参考[这里](http://ueditor.baidu.com/website/ueditor.html)来使用编辑器的一些方法了。
+3.好嘞，终于大功告成，你可以参考[这里](http://ueditor.baidu.com/website/onlinedemo.html)来使用编辑器的一些方法了。
 
 ##Bug
 如果你遇到了问题，可以先尝试 `composer update` 来更新一下。如果问题依旧，请提交[issue](https://github.com/zhuzhichao/Ueditor/issues)，我会及时回复。当然如果你能提交[Pull Requests](https://github.com/zhuzhichao/Ueditor/pulls)更好，^^
