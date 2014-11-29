@@ -59,6 +59,11 @@ php artisan asset:publish zhuzhichao/ueditor
 {{ Ueditor::js() }}
 ```
 
+```javascript
+// 添加自己的JS代码，初始化编辑器
+var ue = UE.getEditor('editor');
+```
+
 2.文件的上传位置为 `public/upload` 文件夹下，请确保有写入权限
 
 3.好嘞，终于大功告成，你可以参考[这里](http://ueditor.baidu.com/website/onlinedemo.html)来使用编辑器的一些方法了。
