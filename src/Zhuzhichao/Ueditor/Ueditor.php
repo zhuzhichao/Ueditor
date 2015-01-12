@@ -14,7 +14,6 @@ class Ueditor {
 	 * @param array  $config
 	 */
 	public static function content($content = '', $config = []) {
-
 		$attr = Ueditor::makeConfig2String($config);
 		echo "<script type='text/plain' {$attr}>{$content}</script>";
 	}
