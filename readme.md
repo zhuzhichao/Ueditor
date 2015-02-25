@@ -1,6 +1,6 @@
-#Ueditor for laravel
+#Ueditor for laravel 4
 
-`Ueditor for laravel` 对于国内最好用的富文本web编辑器[ueditor](http://ueditor.baidu.com/website/onlinedemo.html)的封装，方便使用 `laravel` 的朋友能够快速配置和使用，以及在线更新编辑器。
+`Ueditor for laravel 4` 对于国内最好用的富文本web编辑器[ueditor](http://ueditor.baidu.com/website/onlinedemo.html)的封装，方便使用 `laravel` 的朋友能够快速配置和使用，以及在线更新编辑器。
 
 
 ##特点
